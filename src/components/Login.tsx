@@ -13,7 +13,7 @@ export function Login() {
   return (
     <div className="login">
       <div className="card-login">
-        <img src="/icon.svg" alt="" width={56} height={56} />
+        <img src={import.meta.env.BASE_URL + "icon.svg"} alt="" width={56} height={56} />
         <h1>עץ המשפחה</h1>
         {!sent ? (
           <form onSubmit={async e => {
