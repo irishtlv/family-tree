@@ -1,0 +1,1052 @@
+{
+ "home": "iris",
+ "people": {
+  "yaakov_d": {
+   "given": "יעקב",
+   "surname": "דהן",
+   "sex": "M",
+   "nick": "עכן",
+   "deceased": true
+  },
+  "hanina": {
+   "given": "חנינה",
+   "surname": "דהן",
+   "sex": "F",
+   "deceased": true
+  },
+  "masud_b": {
+   "given": "מסעוד",
+   "surname": "בוזגלו",
+   "sex": "M",
+   "deceased": true
+  },
+  "aisha": {
+   "given": "עיישה",
+   "surname": "בוזגלו",
+   "sex": "F",
+   "deceased": true
+  },
+  "meir_d": {
+   "given": "מאיר",
+   "surname": "דהן",
+   "sex": "M",
+   "deceased": true
+  },
+  "farha": {
+   "given": "פרחה",
+   "surname": "דהן",
+   "sex": "F",
+   "maiden": "בוזגלו",
+   "deceased": true
+  },
+  "izah": {
+   "given": "איז'ה",
+   "surname": "עשור",
+   "sex": "F"
+  },
+  "yitzhak_a": {
+   "given": "יצחק",
+   "surname": "אזולאי",
+   "sex": "M",
+   "deceased": true
+  },
+  "yimna": {
+   "given": "ימנה",
+   "surname": "אזולאי",
+   "sex": "F",
+   "maiden": "עשור",
+   "deceased": true
+  },
+  "eliyahu": {
+   "given": "אליהו",
+   "surname": "אוחנה",
+   "sex": "M",
+   "deceased": true
+  },
+  "aliya": {
+   "given": "עליה",
+   "surname": "אוטמזגין",
+   "sex": "F",
+   "birth": "סביבות 1899",
+   "death": "1975",
+   "deceased": true,
+   "maiden": "אזולאי",
+   "note": "נולדה לבית אזולאי. שם המשפחה אוטמזגין מנישואים קודמים, שהסתיימו בגירושים, לפני נישואיה לאליהו אוחנה. ייתכן שיש לה ילדים מהנישואים הראשונים."
+  },
+  "masud": {
+   "given": "מסעוד",
+   "surname": "דהן",
+   "sex": "M",
+   "deceased": true
+  },
+  "simcha": {
+   "given": "שמחה",
+   "surname": "דהן",
+   "sex": "F",
+   "nick": "סימי",
+   "death": "1998",
+   "deceased": true
+  },
+  "tzipora_j": {
+   "given": "ציפורה",
+   "surname": "ג'יבלי",
+   "sex": "F"
+  },
+  "menachem": {
+   "given": "מנחם",
+   "surname": "דהן",
+   "sex": "M"
+  },
+  "yossi": {
+   "given": "יוסי",
+   "surname": "דהן",
+   "sex": "M"
+  },
+  "meir2": {
+   "given": "מאיר",
+   "surname": "דהן",
+   "sex": "M"
+  },
+  "pinhas": {
+   "given": "פנחס",
+   "surname": "דהן",
+   "sex": "M"
+  },
+  "yafa": {
+   "given": "יפה",
+   "surname": "נחמיאס",
+   "sex": "F"
+  },
+  "ruti": {
+   "given": "רותי",
+   "surname": "ממן",
+   "sex": "F"
+  },
+  "penina": {
+   "given": "פנינה",
+   "surname": "פינסקר",
+   "sex": "F"
+  },
+  "galit": {
+   "given": "גלית",
+   "surname": "חסדאי",
+   "sex": "F"
+  },
+  "farhia": {
+   "given": "פרחיה",
+   "surname": "דהן",
+   "sex": "F"
+  },
+  "shimon": {
+   "given": "שמעון",
+   "surname": "דהן",
+   "sex": "M"
+  },
+  "bruria": {
+   "given": "ברוריה",
+   "surname": "חג'ג'",
+   "sex": "F",
+   "maiden": "דהן",
+   "birth": "1948"
+  },
+  "meni": {
+   "given": "מני",
+   "surname": "חג'ג'",
+   "sex": "M"
+  },
+  "menuta": {
+   "given": "מנטה",
+   "surname": "חג'ג'",
+   "sex": "F"
+  },
+  "amos_h": {
+   "given": "עמוס",
+   "surname": "חג'ג'",
+   "sex": "M"
+  },
+  "sara_s": {
+   "given": "שרה סמינה",
+   "surname": "חג'ג'",
+   "sex": "F"
+  },
+  "shalom": {
+   "given": "שלום",
+   "surname": "חג'ג'",
+   "sex": "M"
+  },
+  "linda": {
+   "given": "לינדה",
+   "surname": "חג'ג'",
+   "sex": "F"
+  },
+  "asher_h": {
+   "given": "אשר",
+   "surname": "חג'ג'",
+   "sex": "M"
+  },
+  "ziv": {
+   "given": "זיו",
+   "surname": "חג'ג'",
+   "sex": "F"
+  },
+  "gil": {
+   "given": "גיל",
+   "surname": "חג'ג'",
+   "sex": "M"
+  },
+  "sara_p": {
+   "given": "שרה",
+   "surname": "פינטו",
+   "sex": "F"
+  },
+  "sharon_p": {
+   "given": "שרון",
+   "surname": "פינטו",
+   "sex": "M"
+  },
+  "ariel": {
+   "given": "אריאל",
+   "surname": "פינטו",
+   "sex": "M"
+  },
+  "amos2": {
+   "given": "עמוס",
+   "surname": "חג'ג'",
+   "sex": "M"
+  },
+  "sharon_c": {
+   "given": "שרון",
+   "surname": "חן",
+   "sex": "F"
+  },
+  "bar": {
+   "given": "בר",
+   "surname": "חן",
+   "sex": "M"
+  },
+  "aviv": {
+   "given": "אביב",
+   "surname": "חן",
+   "sex": "M"
+  },
+  "iris": {
+   "given": "איריס",
+   "surname": "רזון",
+   "sex": "F",
+   "maiden": "חג'ג'",
+   "birth": "1972",
+   "note": "שנת הלידה נלקחה מכרטיס חתוך בצילום – כדאי לאמת"
+  },
+  "alma": {
+   "given": "אלמה שמחה",
+   "surname": "רזון",
+   "sex": "F"
+  },
+  "sol": {
+   "given": "סול",
+   "surname": "דהן",
+   "sex": "F"
+  },
+  "gabi": {
+   "given": "גבי",
+   "surname": "בן דב",
+   "sex": "M"
+  },
+  "itai": {
+   "given": "איתי",
+   "surname": "בן דב",
+   "sex": "M"
+  },
+  "oren": {
+   "given": "אורן",
+   "surname": "בן דב",
+   "sex": "M"
+  },
+  "aya": {
+   "given": "איה",
+   "surname": "בן דב",
+   "sex": "F"
+  },
+  "maayan_bd": {
+   "given": "מעיין",
+   "surname": "בן דב",
+   "sex": "F"
+  },
+  "amit": {
+   "given": "עמית",
+   "surname": "בן דב",
+   "sex": "M"
+  },
+  "mordi": {
+   "given": "מרדכי",
+   "surname": "חסדאי",
+   "sex": "M",
+   "nick": "מורדי"
+  },
+  "tzachi": {
+   "given": "יצחק",
+   "surname": "חסדאי",
+   "sex": "M",
+   "nick": "צחי"
+  },
+  "etti": {
+   "given": "אתי",
+   "surname": "חסדאי",
+   "sex": "F"
+  },
+  "liyahi": {
+   "given": "ליהיא",
+   "surname": "חסדאי",
+   "sex": "F"
+  },
+  "maayan_h": {
+   "given": "מעיין מרדכי",
+   "surname": "חסדאי",
+   "sex": "M"
+  },
+  "meital": {
+   "given": "מיטל",
+   "surname": "רוזנבלט",
+   "sex": "F"
+  },
+  "nadav": {
+   "given": "נדב",
+   "surname": "רוזנבלט",
+   "sex": "M"
+  },
+  "itamar_rb": {
+   "given": "איתמר",
+   "surname": "רוזנבלט",
+   "sex": "M"
+  },
+  "kedem": {
+   "given": "קדם מרדכי",
+   "surname": "רוזנבלט",
+   "sex": "M"
+  },
+  "ashi": {
+   "given": "אשי",
+   "surname": "חסדאי",
+   "sex": "M"
+  },
+  "unk_hasdai": {
+   "given": "(לא ידוע)",
+   "surname": "חסדאי",
+   "sex": "F"
+  },
+  "liya": {
+   "given": "ליה",
+   "surname": "חסדאי",
+   "sex": "F"
+  },
+  "mordechai_p": {
+   "given": "מרדכי",
+   "surname": "פינסקר",
+   "sex": "M"
+  },
+  "roni": {
+   "given": "רוני",
+   "surname": "פינסקר",
+   "sex": "M"
+  },
+  "keti": {
+   "given": "קטי",
+   "surname": "פינסקר",
+   "sex": "F"
+  },
+  "shlomi": {
+   "given": "שלומי",
+   "surname": "ממן",
+   "sex": "M"
+  },
+  "li": {
+   "given": "לי",
+   "surname": "בלומנפלד",
+   "sex": "F"
+  },
+  "david_b": {
+   "given": "דייויד",
+   "surname": "בלומנפלד",
+   "sex": "M"
+  },
+  "kaili": {
+   "given": "קיילי",
+   "surname": "בלומנפלד",
+   "sex": "F"
+  },
+  "liroi": {
+   "given": "לירוי",
+   "surname": "בלומנפלד",
+   "sex": "M"
+  },
+  "avi_m": {
+   "given": "אבי",
+   "surname": "ממן",
+   "sex": "M"
+  },
+  "osher": {
+   "given": "אושר",
+   "surname": "ממן",
+   "sex": "M"
+  },
+  "nissim": {
+   "given": "ניסים",
+   "surname": "נחמיאס",
+   "sex": "M"
+  },
+  "buhadana": {
+   "given": "(שם לא ידוע)",
+   "surname": "בוהדנה",
+   "sex": "U",
+   "note": "במקור מחובר/ת לניסים בקו מקווקו (בן/בת זוג קודמ/ת?)"
+  },
+  "sara_d": {
+   "given": "שרה",
+   "surname": "דהן",
+   "sex": "F"
+  },
+  "simcha_d": {
+   "given": "שמחה",
+   "surname": "דהן",
+   "sex": "F"
+  },
+  "moshe_sr": {
+   "given": "משה",
+   "surname": "רזון",
+   "sex": "M",
+   "deceased": true
+  },
+  "victoria": {
+   "given": "ויקטוריה",
+   "surname": "רזון",
+   "sex": "F",
+   "deceased": true
+  },
+  "yitzhak_k": {
+   "given": "יצחק",
+   "surname": "קלאורה",
+   "sex": "M",
+   "deceased": true
+  },
+  "lea_k": {
+   "given": "לאה",
+   "surname": "קלאורה",
+   "sex": "F",
+   "deceased": true
+  },
+  "mordechai_sr": {
+   "given": "מרדכי",
+   "surname": "רזון",
+   "sex": "M",
+   "deceased": true
+  },
+  "esther": {
+   "given": "אסתר",
+   "surname": "רזון",
+   "sex": "F",
+   "maiden": "קלאורה",
+   "birth": "1906",
+   "death": "1989",
+   "deceased": true
+  },
+  "yitzhak_r": {
+   "given": "יצחק",
+   "surname": "רזון",
+   "sex": "M"
+  },
+  "shelly": {
+   "given": "שלי",
+   "surname": "רזון",
+   "sex": "F"
+  },
+  "guy": {
+   "given": "גיא",
+   "surname": "רזון",
+   "sex": "M"
+  },
+  "limor_r": {
+   "given": "לימור",
+   "surname": "רזון",
+   "sex": "F"
+  },
+  "eli": {
+   "given": "אלי",
+   "surname": "רזון",
+   "sex": "M"
+  },
+  "tzipora_r": {
+   "given": "ציפורה",
+   "surname": "רזון",
+   "sex": "F"
+  },
+  "naama": {
+   "given": "נעמה",
+   "surname": "רזון",
+   "sex": "F"
+  },
+  "ben": {
+   "given": "בן",
+   "surname": "רזון",
+   "sex": "M"
+  },
+  "anat": {
+   "given": "ענת",
+   "surname": "רזון",
+   "sex": "F"
+  },
+  "moshe": {
+   "given": "משה",
+   "surname": "רזון",
+   "sex": "M",
+   "birth": "1941",
+   "deceased": true
+  },
+  "stella": {
+   "given": "סטלה",
+   "surname": "רזון",
+   "sex": "F",
+   "maiden": "ירוחם",
+   "birth": "1944"
+  },
+  "rozanis_m": {
+   "given": "(לא ידוע)",
+   "surname": "רוזאניס",
+   "sex": "M"
+  },
+  "rozanis_f": {
+   "given": "(לא ידועה)",
+   "surname": "רוזאניס",
+   "sex": "F"
+  },
+  "sasson": {
+   "given": "ששון",
+   "surname": "ירוחם",
+   "sex": "M",
+   "deceased": true
+  },
+  "stella_y": {
+   "given": "סטלה",
+   "surname": "ירוחם",
+   "sex": "F",
+   "maiden": "רוזאניס",
+   "deceased": true
+  },
+  "avraham_k": {
+   "given": "אברהם",
+   "surname": "קונפורטי",
+   "sex": "M"
+  },
+  "matilda": {
+   "given": "מטילדה",
+   "surname": "קונפורטי",
+   "sex": "F",
+   "deceased": true
+  },
+  "emil": {
+   "given": "אמיל",
+   "surname": "ירוחם",
+   "sex": "M",
+   "birth": "1923",
+   "deceased": true
+  },
+  "tamar": {
+   "given": "תמר",
+   "surname": "מלמד",
+   "sex": "F",
+   "nick": "בוצ'ה",
+   "deceased": true
+  },
+  "mordechai": {
+   "given": "מרדכי",
+   "surname": "רזון",
+   "sex": "M"
+  },
+  "mira": {
+   "given": "מירה",
+   "surname": "רזון",
+   "sex": "F"
+  },
+  "ron": {
+   "given": "רון",
+   "surname": "רזון",
+   "sex": "M"
+  },
+  "noam": {
+   "given": "נועם",
+   "surname": "רזון",
+   "sex": "F"
+  },
+  "jacky": {
+   "given": "יעקב דורון",
+   "surname": "רזון",
+   "sex": "M",
+   "nick": "ג'קי"
+  },
+  "sharon_bi": {
+   "given": "שרון",
+   "surname": "בר אילן",
+   "sex": "F"
+  },
+  "yuval": {
+   "given": "יובל",
+   "surname": "רזון",
+   "sex": "M"
+  },
+  "ori_r": {
+   "given": "אורי",
+   "surname": "רזון",
+   "sex": "M"
+  },
+  "sharon_f": {
+   "given": "שרון",
+   "surname": "פלר",
+   "sex": "F"
+  },
+  "itamar_r": {
+   "given": "איתמר",
+   "surname": "רזון",
+   "sex": "M"
+  },
+  "limor_g": {
+   "given": "לימור",
+   "surname": "גגר",
+   "sex": "F",
+   "maiden": "רזון"
+  },
+  "tomer": {
+   "given": "תומר",
+   "surname": "גגר",
+   "sex": "M"
+  },
+  "gal": {
+   "given": "גל",
+   "surname": "גגר",
+   "sex": "U"
+  },
+  "ori_g": {
+   "given": "אורי",
+   "surname": "גגר",
+   "sex": "M"
+  },
+  "hadas": {
+   "given": "הדס",
+   "surname": "גגר",
+   "sex": "F"
+  },
+  "otmazgin": {
+   "given": "(שם לא ידוע)",
+   "surname": "אוטמזגין",
+   "sex": "M",
+   "note": "בעלה הראשון של עליה. התגרשו."
+  }
+ },
+ "unions": [
+  {
+   "id": "f1",
+   "a": "yaakov_d",
+   "b": "hanina",
+   "status": "married",
+   "children": [
+    "meir_d"
+   ]
+  },
+  {
+   "id": "f2",
+   "a": "masud_b",
+   "b": "aisha",
+   "status": "married",
+   "children": [
+    "farha"
+   ]
+  },
+  {
+   "id": "f3",
+   "a": "meir_d",
+   "b": "farha",
+   "status": "married",
+   "children": [
+    "masud"
+   ]
+  },
+  {
+   "id": "f4",
+   "a": null,
+   "b": "izah",
+   "status": "married",
+   "children": [
+    "yimna"
+   ]
+  },
+  {
+   "id": "f5",
+   "a": "yitzhak_a",
+   "b": "yimna",
+   "status": "married",
+   "children": [
+    "aliya"
+   ]
+  },
+  {
+   "id": "f6",
+   "a": "eliyahu",
+   "b": "aliya",
+   "status": "married",
+   "children": [
+    "simcha"
+   ]
+  },
+  {
+   "id": "f7",
+   "a": "masud",
+   "b": "simcha",
+   "status": "married",
+   "children": [
+    "tzipora_j",
+    "menachem",
+    "yossi",
+    "meir2",
+    "pinhas",
+    "yafa",
+    "ruti",
+    "penina",
+    "galit",
+    "farhia",
+    "shimon",
+    "bruria"
+   ]
+  },
+  {
+   "id": "f8",
+   "a": "meni",
+   "b": "menuta",
+   "status": "married",
+   "children": [
+    "amos_h"
+   ]
+  },
+  {
+   "id": "f9",
+   "a": "amos_h",
+   "b": "sara_s",
+   "status": "married",
+   "children": [
+    "shalom"
+   ]
+  },
+  {
+   "id": "f10",
+   "a": "shalom",
+   "b": "bruria",
+   "status": "married",
+   "children": [
+    "linda",
+    "sara_p",
+    "amos2",
+    "iris"
+   ]
+  },
+  {
+   "id": "f11",
+   "a": "asher_h",
+   "b": "linda",
+   "status": "married",
+   "children": [
+    "ziv",
+    "gil"
+   ]
+  },
+  {
+   "id": "f12",
+   "a": "sharon_p",
+   "b": "sara_p",
+   "status": "married",
+   "children": [
+    "ariel"
+   ]
+  },
+  {
+   "id": "f13",
+   "a": "amos2",
+   "b": "sharon_c",
+   "status": "married",
+   "children": [
+    "bar",
+    "aviv"
+   ]
+  },
+  {
+   "id": "f14",
+   "a": "mordechai",
+   "b": "iris",
+   "status": "divorced",
+   "children": [
+    "alma"
+   ]
+  },
+  {
+   "id": "f15",
+   "a": "shimon",
+   "b": "sol",
+   "status": "married",
+   "children": []
+  },
+  {
+   "id": "f16",
+   "a": "gabi",
+   "b": "farhia",
+   "status": "married",
+   "children": [
+    "amit",
+    "maayan_bd",
+    "aya",
+    "oren",
+    "itai"
+   ]
+  },
+  {
+   "id": "f17",
+   "a": "mordi",
+   "b": "galit",
+   "status": "married",
+   "children": [
+    "ashi",
+    "meital",
+    "tzachi"
+   ]
+  },
+  {
+   "id": "f18",
+   "a": "tzachi",
+   "b": "etti",
+   "status": "married",
+   "children": [
+    "maayan_h",
+    "liyahi"
+   ]
+  },
+  {
+   "id": "f19",
+   "a": "nadav",
+   "b": "meital",
+   "status": "married",
+   "children": [
+    "kedem",
+    "itamar_rb"
+   ]
+  },
+  {
+   "id": "f20",
+   "a": "ashi",
+   "b": "unk_hasdai",
+   "status": "married",
+   "children": [
+    "liya"
+   ]
+  },
+  {
+   "id": "f21",
+   "a": "mordechai_p",
+   "b": "penina",
+   "status": "married",
+   "children": [
+    "roni"
+   ]
+  },
+  {
+   "id": "f22",
+   "a": "roni",
+   "b": "keti",
+   "status": "married",
+   "children": []
+  },
+  {
+   "id": "f23",
+   "a": "shlomi",
+   "b": "ruti",
+   "status": "married",
+   "children": [
+    "osher",
+    "avi_m",
+    "li"
+   ]
+  },
+  {
+   "id": "f24",
+   "a": "david_b",
+   "b": "li",
+   "status": "married",
+   "children": [
+    "liroi",
+    "kaili"
+   ]
+  },
+  {
+   "id": "f25",
+   "a": "nissim",
+   "b": "yafa",
+   "status": "married",
+   "children": []
+  },
+  {
+   "id": "f26",
+   "a": "nissim",
+   "b": "buhadana",
+   "status": "divorced",
+   "children": []
+  },
+  {
+   "id": "f27",
+   "a": "pinhas",
+   "b": "sara_d",
+   "status": "married",
+   "children": [
+    "simcha_d"
+   ]
+  },
+  {
+   "id": "f28",
+   "a": "moshe_sr",
+   "b": "victoria",
+   "status": "married",
+   "children": [
+    "mordechai_sr"
+   ]
+  },
+  {
+   "id": "f29",
+   "a": "yitzhak_k",
+   "b": "lea_k",
+   "status": "married",
+   "children": [
+    "esther"
+   ]
+  },
+  {
+   "id": "f30",
+   "a": "mordechai_sr",
+   "b": "esther",
+   "status": "married",
+   "children": [
+    "moshe",
+    "eli",
+    "yitzhak_r"
+   ]
+  },
+  {
+   "id": "f31",
+   "a": "yitzhak_r",
+   "b": "shelly",
+   "status": "married",
+   "children": [
+    "limor_r",
+    "guy"
+   ]
+  },
+  {
+   "id": "f32",
+   "a": "eli",
+   "b": "tzipora_r",
+   "status": "married",
+   "children": [
+    "anat",
+    "ben",
+    "naama"
+   ]
+  },
+  {
+   "id": "f33",
+   "a": "rozanis_m",
+   "b": "rozanis_f",
+   "status": "married",
+   "children": [
+    "stella_y"
+   ]
+  },
+  {
+   "id": "f34",
+   "a": "sasson",
+   "b": "stella_y",
+   "status": "married",
+   "children": [
+    "emil"
+   ]
+  },
+  {
+   "id": "f35",
+   "a": "avraham_k",
+   "b": "matilda",
+   "status": "married",
+   "children": [
+    "tamar"
+   ]
+  },
+  {
+   "id": "f36",
+   "a": "emil",
+   "b": "tamar",
+   "status": "married",
+   "children": [
+    "stella"
+   ]
+  },
+  {
+   "id": "f37",
+   "a": "moshe",
+   "b": "stella",
+   "status": "married",
+   "children": [
+    "limor_g",
+    "jacky",
+    "mira",
+    "mordechai"
+   ]
+  },
+  {
+   "id": "f38",
+   "a": "tomer",
+   "b": "limor_g",
+   "status": "married",
+   "children": [
+    "hadas",
+    "ori_g",
+    "gal"
+   ]
+  },
+  {
+   "id": "f39",
+   "a": "jacky",
+   "b": "sharon_bi",
+   "status": "married",
+   "children": [
+    "ori_r",
+    "yuval"
+   ]
+  },
+  {
+   "id": "f40",
+   "a": "jacky",
+   "b": "sharon_f",
+   "status": "divorced",
+   "children": [
+    "itamar_r"
+   ]
+  },
+  {
+   "id": "f41",
+   "a": null,
+   "b": "mira",
+   "status": "married",
+   "children": [
+    "noam",
+    "ron"
+   ]
+  },
+  {
+   "id": "f42",
+   "a": "otmazgin",
+   "b": "aliya",
+   "status": "divorced",
+   "children": []
+  }
+ ]
+}
